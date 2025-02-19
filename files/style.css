@@ -900,7 +900,7 @@ h3 {
         top: 20px;  /*70*/
         left: 0;
         box-shadow: 0 .1rem 1rem #000;
-        padding: 20px 0;
+        padding: 10px 0;   /*20*/
     }
 
     .menu-toggle:checked + .menu-icon + .navbar {
