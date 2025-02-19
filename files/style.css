@@ -895,7 +895,7 @@ h3 {
         display: none;
         flex-direction: column;
         width: 100%;
-        background: hsl(228, 15%, 20%);
+        background: hsl(228, 10%, 15%);  /*(228, 15%, 20%);*/
         position: absolute;
         top: 20px;  /*70*/
         left: 0;
