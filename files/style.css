@@ -73,7 +73,7 @@ body {
     font-family: 'Rubik', sans-serif;
     font-weight: 500;  /*500*/
     margin-left: 10px;  /*35*/
-    transition: .5s;
+    transition: 1s;
 }
 
 .navbar a:hover {
