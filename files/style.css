@@ -894,7 +894,7 @@ h3 {
     .navbar {
         display: none;
         flex-direction: column;
-        width: 80%;
+        width: 50%;
         background: hsl(228, 10%, 15%);  /*(228, 15%, 20%);*/
         position: absolute;
         top: 0px;  /*70*/
